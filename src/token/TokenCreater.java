@@ -42,4 +42,8 @@ public class TokenCreater {
 			System.out.println(token);
 		}
 	}
+	
+	public static void test(){
+		System.out.println("Hello World!");
+	}
 }
