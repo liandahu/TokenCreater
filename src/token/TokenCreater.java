@@ -4,6 +4,11 @@ import java.util.HashSet;
 import java.util.Random;
 import java.util.Set;
 
+/**
+ * ×¢ÊÍ by BigLake
+ * @author Jaffee
+ *
+ */
 public class TokenCreater {
 
 	public static final String ALLCHAR = "0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
