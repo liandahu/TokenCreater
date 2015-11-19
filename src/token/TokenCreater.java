@@ -43,7 +43,11 @@ public class TokenCreater {
 		}
 	}
 	
+
 	public static void add(){
 		System.out.println("test ADD");
+	}
+	public static void test(){
+		System.out.println("Hello World!");
 	}
 }
