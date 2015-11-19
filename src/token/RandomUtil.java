@@ -2,6 +2,12 @@ package token;
 
 import java.util.Random;
 
+/**
+ * 随机数工具
+ * 
+ * @author liandahu
+ *
+ */
 public class RandomUtil {
 	public static final String ALLCHAR = "0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
 	public static final String LETTERCHAR = "abcdefghijkllmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
