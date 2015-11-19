@@ -9,4 +9,6 @@ package token;
 public interface OrderCenterJSFExpore {
 
 	public String getOrderList();
+	
+	public String getOrderInfo();
 }

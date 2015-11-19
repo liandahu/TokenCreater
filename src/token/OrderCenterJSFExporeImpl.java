@@ -7,4 +7,9 @@ public class OrderCenterJSFExporeImpl implements OrderCenterJSFExpore {
 		return "Hello World £¡";
 	}
 
+	@Override
+	public String getOrderInfo() {
+		return "OrderInfo";
+	}
+
 }
